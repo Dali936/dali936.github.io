@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Dali936.github.io/sitemap.xml
+Sitemap: https://Dali.github.io/sitemap.xml
