@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Email: li944104439@gmail.com
+subtitle: "Email: li944104439@gmail.com"
 
 profile:
   align: right
