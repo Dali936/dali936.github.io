@@ -43,5 +43,6 @@ jobs:
         uses: lycheeverse/lychee-action@v2.0.2
         with:
           fail: true
+          lycheeVersion: latest
           # only check local links
-          args: --offline --root-dir _site --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
+          args: --offline --root-dir '${{ github.workspace }}/_site' --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
