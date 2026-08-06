@@ -230,23 +230,6 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-.research-focus {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-  margin: 1rem 0 1.35rem;
-
-  span {
-    border: 1px solid var(--global-divider-color);
-    border-radius: 6px;
-    background: var(--global-card-bg-color);
-    color: var(--global-text-color);
-    font-size: 0.875rem;
-    line-height: 1.2;
-    padding: 0.4rem 0.65rem;
-  }
-}
-
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;

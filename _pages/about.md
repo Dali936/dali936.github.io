@@ -28,12 +28,4 @@ I am currently a third-year master student at Shenzhen University. I spent years
 
 My research interests include human modeling, human motion generation, and human–scene interaction, with a broader focus on 3D vision and end-to-end scene reconstruction.
 
-<div class="research-focus" aria-label="Research focus areas">
-  <span>human modeling</span>
-  <span>motion generation</span>
-  <span>human-scene interaction</span>
-  <span>3D vision</span>
-  <span>scene reconstruction</span>
-</div>
-
 I am especially interested in extending these capabilities toward virtual and augmented reality systems, and in building immersive digital worlds with coherent geometry, motion, and interaction.
