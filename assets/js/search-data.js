@@ -16,10 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-release-my-personal-website-check-it-out",
-          title: '🎉 Release my personal website! Check it out!',
-          description: "",
-          section: "News",},{id: "news-our-paper-skel-cf-coarse-to-fine-biomechanical-skeleton-and-surface-mesh-recovery-has-been-accepted-to-eccv-2026",
+        },{id: "news-our-paper-skel-cf-coarse-to-fine-biomechanical-skeleton-and-surface-mesh-recovery-has-been-accepted-to-eccv-2026",
           title: '🎉 Our paper SKEL-CF: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery has been...',
           description: "",
           section: "News",},{id: "news-our-paper-point-selection-fine-tuning-framework-for-robust-point-cloud-classification-has-been-accepted-to-prcv-2026",
